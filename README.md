@@ -1,6 +1,6 @@
 Módulo que activa blur en el centro de control, barra de notificaciones y pantalla de bloqueo.
 
-Actualmente hay 2 versiones, una para HyperOs2 y otra para HyperOs3. 
+El módulo solo funciona en HyperOs3. 
 
 Si estas usando Ksu o Ksunext3.0 es necesario antes de instalar el módulo, tener instalado el metamodulo de overlayfs para que funcione.
 
