@@ -1,4 +1,4 @@
-Módulo que activa blur en el centro ce control, barra de notificaciones y pantalla de bloqueo.
+Módulo que activa blur en el centro de control, barra de notificaciones y pantalla de bloqueo.
 
 Funciona únicamente en HyperOs3.0 
 
